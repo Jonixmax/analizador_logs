@@ -1,0 +1,13 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Failed to connect to database
+[WARNING] Invalid password attempt
+[DEBUG] 2025-01-10 Cache warmed
+
+Texto suelto sin ningun formato
+[INFO] 2025-13-45 Date out of range
+[ERROR] 2025/01/10 Wrong date separators
+[INFO] 2025-01-11
+[WARNING] 2025-01-11 Low memory
+[error] 2025-01-11 Lowercase level
+[ERROR]
+[INFO] 2025-01-12 Backup completed

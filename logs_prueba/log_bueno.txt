@@ -1,0 +1,10 @@
+[INFO] 2025-01-10 User logged in
+[INFO] 2025-01-10 Session started
+[WARNING] 2025-01-10 Disk usage at 85%
+[ERROR] 2025-01-10 Failed to connect to database
+[INFO] 2025-01-11 User logged out
+[ERROR] 2025-01-11 Timeout while calling payment API
+[WARNING] 2025-01-11 Slow response from cache server
+[INFO] 2025-01-12 Backup completed
+[INFO] 2025-01-12 Scheduled task finished
+[ERROR] 2025-01-12 Null reference in checkout module

@@ -1,0 +1,14 @@
+﻿[INFO] 2025-02-28 First line after BOM
+   [ERROR] 2025-02-28 Indented line   
+[INFO] 2025-02-30 February 30 does not exist
+[INFO] 2024-02-29 Leap day is valid
+[WARNING] 2025-03-01 Mensaje con acentos y eñe: conexión perdida
+[INFO] 1.2.3 released
+[INFO] 404 pages not found today
+[ERROR]2025-03-02 No space after bracket
+[INFO] 2025-03-02    extra spaces in message
+[ERROR] 2025-03-03 Error with [inner] brackets in message
+[] 2025-03-03 Empty level
+      
+[INFO] 2025-03-04T10:30:00 ISO timestamp with T
+[INFO] 2025-03-04 10:30:00 Time after date
